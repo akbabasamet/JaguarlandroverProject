@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="10.24">
+    <testcase classname="User checks the functionality of the application's home page" name="TC04 User should be able to display Jaguar's Twitter account" time="10.015">
+        <system-out>
+            <![CDATA[Given User goes to home page................................................passed
+Then User hover over the News&Media button..................................passed
+And User clicks on the Twitter button.......................................passed
+And User verifies that the twitter page is displayed........................passed
+And User closes the browser.................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
